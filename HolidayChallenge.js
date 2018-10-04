@@ -1,0 +1,1 @@
+console.log(`I will raise ${(.04 * (200000 - 100000) + (100000 * .02))} for charity this year!`);
